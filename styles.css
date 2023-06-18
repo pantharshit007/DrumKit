@@ -16,69 +16,39 @@ footer {
   font-family: sans-serif;
 }
 
-.w:hover
- {
-  cursor: pointer;
-  /* border: none; */
-  background-color: white;
-  background-image: url("./images/tom1.png")
-}
 .w{
-  background-image: url("./images/tom1.png")
+  background-image: url("./images/tom1.png");
+  cursor: pointer;
 }
 
-.a:hover {
-  cursor: pointer;
-  background-color: white;
-  background-image: url('./images/tom2.png')
-}
 .a{
-  background-image: url('./images/tom2.png')
+  background-image: url('./images/tom2.png');
+  cursor: pointer;
 }
 
-.s:hover {
-  cursor: pointer;
-  background-color: white;
-  background-image: url('./images/tom3.png')
-}
 .s{
-  background-image: url('./images/tom3.png')
+  background-image: url('./images/tom3.png');
+  cursor: pointer;
 }
 
-.d:hover {
-  cursor: pointer;
-  background-color: white;
-  background-image: url('./images/tom4.png')
-}
 .d{
-  background-image: url('./images/tom4.png')
+  background-image: url('./images/tom4.png');
+  cursor: pointer;
 }
 
-.j:hover {
-  cursor: pointer;
-  background-color: white;
-  background-image: url('./images/snare.png')
-}
 .j{
-  background-image: url('./images/snare.png')
+  background-image: url('./images/snare.png');
+  cursor: pointer;
 }
 
-.k:hover {
-  cursor: pointer;
-  background-color: white;
-  background-image: url('./images/crash.png')
-}
 .k{
-  background-image: url('./images/crash.png')
+  background-image: url('./images/crash.png');
+  cursor: pointer;
 }
 
-.l:hover {
-  cursor: pointer;
-  background-color: white;
-  background-image: url('./images/kick.png')
-}
 .l{
-  background-image: url('./images/kick.png')
+  background-image: url('./images/kick.png');
+  cursor: pointer;
 }
 
 .set {
